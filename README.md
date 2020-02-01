@@ -1,2 +1,2 @@
 # Winrar-with-password
-Extract password prtected rar files in Google Drive
+Extract with password protected rar files in Google Drive by using Google Colab.
